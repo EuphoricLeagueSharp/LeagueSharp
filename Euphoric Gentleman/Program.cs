@@ -14,7 +14,7 @@ namespace Euphoric_Gentleman
 
         private static void Game_OnLoad(EventArgs args)
         {
-            Game.PrintChat("<font color=\"#55FF00\"><b>Euphoric</font> <font color=\"#00AAFF\">Gentleman</b></font> successfully loaded!");
+            Game.PrintChat("<font color=\"#55FF00\"><b>Euphoric</b></font> <font color=\"#00AAFF\"><b>Gentleman</b></font> successfully loaded!");
             Utility.DelayAction.Add((new Random(Environment.TickCount).Next(1000, 10001)), () => Game.Say("/all glhf"));
         }
 
