@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BFA525FD-56DD-418F-A289-16209C8B1F3B}</ProjectGuid>
+    <ProjectGuid>{DC918B70-EBA8-446E-AA80-8C88D5D88EAE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Euphoric_Gentleman</RootNamespace>
